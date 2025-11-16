@@ -1,0 +1,1 @@
+transaction_id,customer_id,transaction_timestamp,amount,currency,merchant_category,is_chargeback,is_late_payment,loan_id
